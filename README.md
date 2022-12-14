@@ -20,6 +20,8 @@ Durante o curso de testes automatizados com Cypress (básico), você vai aprende
 - Como executar os testes em um _pipeline_ de integração contínua sempre que mudanças ocorrerem no código da aplicação (ou dos testes)
 - Como criar uma documentação mínima para seu projeto de testes automatizados
 
+mudança teste
+
 ## Vamos começar?
 
 Vá para a seção [estrutura do curso](./lessons/_course-structure_.md).
